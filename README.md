@@ -234,19 +234,6 @@ By combining dynamic visualizations, advanced DAX calculations, and an optimized
 
 ---
 
-# 📂 Project Structure
-
-```
-Healthcare Analytics Dashboard
-│
-├── Dataset
-├── Healthcare Dashboard.pbix
-├── Dashboard Screenshots
-├── README.md
-└── Project Summary
-```
-
----
 
 # 👩‍💻 Author
 
